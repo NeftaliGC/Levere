@@ -1,4 +1,4 @@
-Levere
+# Levere
 
 Levere es un sistema de Punto de Venta (POS) y gestión de inventario diseñado para pequeñas y medianas empresas. Su objetivo es simplificar y optimizar las operaciones diarias de ventas, control de stock y relación con clientes y proveedores.
 Características principales
@@ -11,7 +11,7 @@ Características principales
 
     🚚 Gestión de proveedores
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 
 Levere está construido con una arquitectura moderna que permite una experiencia de usuario fluida en entornos de escritorio:
 
